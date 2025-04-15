@@ -29,7 +29,7 @@ https://public.tableau.com/views/DashboardsforchainofCoffeeshops/Salesbyproductp
 
 ⚙️ Installation
 Clone the repository:
-git clone https://github.com/Sofya-Zats/Coffee-shops.git
+[git clone https://github.com/Sofya-Zats/Coffee-shops.git](https://github.com/Sofya-Zats/Data-base-and-dashboards-for-chain-of-coffee-shops.git)
 
 📦 Dependencies 
 Python Pandas library 
