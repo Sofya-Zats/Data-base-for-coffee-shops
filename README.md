@@ -28,6 +28,7 @@ Follow link to my profile on Tableau Public:
 https://public.tableau.com/views/DashboardsforchainofCoffeeshops/Salesbyproductproductcategory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ⚙️ Installation
+
 Clone the repository:
 [git clone https://github.com/Sofya-Zats/Coffee-shops.git](https://github.com/Sofya-Zats/Data-base-and-dashboards-for-chain-of-coffee-shops.git)
 
