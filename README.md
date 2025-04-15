@@ -1,4 +1,4 @@
-# Data-Base-and-dynamic-dashboard-for-coffee-shop-chain
+# Data-Base-and-dynamic-dashboards-for-coffee-shop-chain
 
 SQL data base and dynamic Tableau dashboard with sales data for chain of coffee shops
 A data analysis project that includes
