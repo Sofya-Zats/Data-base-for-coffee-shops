@@ -38,9 +38,6 @@ Python Faker library
 Admin4
 Tableau public
 
-Install all dependencies using:
-
-pip install -r requirements.txt
 
 👥 Contributors
 Sofya Zats
