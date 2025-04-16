@@ -4,8 +4,8 @@ SQL data base and dynamic Tableau dashboard with sales data for chain of coffee 
 A data analysis project that includes
 1.creation of SQL data base with sales and customer data for international chain of coffee shops 
 2.data extaction from data base using PostgreSQL queries
-3.transformation of sales data using Python Pandas library
-4.two dynamic dashboards in Tableau: sales comparison between regions and performance comparison between products.
+and transformation of sales data using Python Pandas library
+3.two dynamic dashboards in Tableau: sales comparison between regions and performance comparison between products.
  These Dynamic dashboards allow managemnent easily track performance of the business over the years and comparecontribution of 
  selected products
 
