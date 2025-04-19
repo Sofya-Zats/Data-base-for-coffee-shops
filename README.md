@@ -36,7 +36,7 @@ Explore the dashboards live on Tableau Public:
 👉 [Sales by Product / Product Category Dashboard](https://public.tableau.com/views/DashboardsforchainofCoffeeshops/Salesbyproductproductcategory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
  👉 [Sales by Region / Country/ HQs Dashboard](https://public.tableau.com/app/profile/sofya.zats8791/viz/DashboardforchainofCoffeeshops_Sales_by_region_country_venue/Salesbyregioncountryvenue)
 
-Or check out the `output/` folder for exported visualizations.
+Or check out project overview for exported visualizations.
 
 ---
 
