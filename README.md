@@ -9,7 +9,7 @@ A complete data analysis project featuring a custom SQL database and interactive
 This project includes:
 
 1. 🏗️ **Creation of a relational SQL database** with normalized sales and customer data.
-2. 🛠️ **Data extraction and transformation** using PostgreSQL queries and Python (Pandas).
+2. 🛠️ **Data extraction and transformation** using PostgreSQL queries and Python (Pandas library).
 3. 📈 **Two interactive dashboards in Tableau Public**:
    - **Sales by Region**: Compare YoY and monthly revenue across countries, regions, and cafe HQs.
    - **Sales by Product**: Analyze product performance and contributions to overall revenue.
