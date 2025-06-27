@@ -6,7 +6,7 @@ A complete data analysis project featuring a custom SQL database and interactive
 
 ## 🚀 Project Overview
 
-This project includes:   
+This project includes:      
 
 1. 🏗️ **Creation of a relational SQL database** with normalized sales and customer data.
 2. 🛠️ **Data extraction and transformation** using PostgreSQL queries and Python (Pandas library).
