@@ -12,7 +12,7 @@ This project includes:
 2. 🛠️ **Data extraction and transformation** using PostgreSQL queries and Python (Pandas library).
 3. 📈 **Two interactive dashboards in Tableau Public**:
    - **Sales by Region**: Compare YoY and monthly revenue across countries, regions, and cafe HQs.
-   - **Sales by Product**: Analyze product performance and contributions to overall revenue.
+   - **Sales by Product**:    Analyze product performance and contributions to overall revenue.
 
 These tools allow business managers to dynamically explore performance trends and make data-driven decisions.
 
